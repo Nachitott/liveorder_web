@@ -29,9 +29,10 @@ npm run lint     # ESLint
 
 ## Estado
 
-- Fase 01 — Brand foundation: tokens, tipografía, logo, primitives y preview del sistema.
-- Fase 02 — Hero y narrativa principal.
+- Fase 01 — Brand foundation: tokens, tipografía, logo, primitives y preview del sistema (`/brand`).
+- Fase 02 — Home real: header, hero con simulación live, narrativa del problema y CTA de acceso.
 
 ## Contacto
 
-`hola@liveorder.app` (placeholder hasta confirmar email definitivo).
+- WhatsApp: +54 9 388 602-2321
+- Email: nachotty2@gmail.com

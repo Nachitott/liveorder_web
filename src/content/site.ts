@@ -3,16 +3,21 @@ export const site = {
   shortName: "LiveOrder",
   tagline: "Vendé en vivo. Vendé en orden.",
   description:
-    "El sistema operativo del live commerce. Adjudicación FIFO, stock en tiempo real y exportación en un clic.",
-  contactEmail: "hola@liveorder.app",
+    "LiveOrder adjudica cada pedido en el orden exacto, bloquea el stock agotado y te entrega la lista lista para cobrar. Sin comisiones por venta.",
+  contactEmail: "nachotty2@gmail.com",
+  whatsappNumber: "5493886022321",
+  whatsappDisplay: "+54 9 388 602-2321",
   phase: "Phase 01",
 };
 
+export const whatsappUrl = `https://wa.me/${site.whatsappNumber}?text=${encodeURIComponent(
+  "Hola, quiero acceso a LiveOrder OS",
+)}`;
+
 export const navLinks = [
-  { label: "Sistema", href: "#sistema" },
-  { label: "Identidad", href: "#identidad" },
-  { label: "Componentes", href: "#componentes" },
-  { label: "Motion", href: "#motion" },
+  { label: "Producto", href: "#producto" },
+  { label: "El problema", href: "#problema" },
+  { label: "Acceso", href: "#acceso" },
 ];
 
 export const palette = [
@@ -55,10 +60,10 @@ export const palette = [
 ];
 
 export const marqueeItems = [
-  "FIFO · 0 ms",
-  "Stock en tiempo real",
+  "FIFO en milisegundos",
+  "Stock bloqueado",
   "Exportá en 1 clic",
   "Sin comisiones por venta",
-  "Adjudicación exacta",
+  "Instalación inmediata",
   "Live commerce OS",
 ];
