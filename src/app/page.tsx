@@ -1,3 +1,4 @@
+import { DemoSection } from "@/components/demo/demo-section";
 import { Hero } from "@/components/sections/hero";
 import { Problem } from "@/components/sections/problem";
 import { SiteFooter } from "@/components/sections/site-footer";
@@ -16,6 +17,7 @@ export default function Home() {
         <Hero />
         <Marquee items={marqueeItems} speed={38} />
         <Problem />
+        <DemoSection />
       </main>
 
       <SiteFooter />

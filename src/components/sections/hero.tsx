@@ -43,8 +43,8 @@ export function Hero() {
               <Button href={whatsappUrl} target="_blank" rel="noreferrer" size="lg" arrow>
                 Quiero mi acceso
               </Button>
-              <Button href="#problema" variant="secondary" size="lg">
-                Ver el problema
+              <Button href="#demo" variant="secondary" size="lg">
+                Ver demo
               </Button>
             </div>
 
