@@ -61,7 +61,7 @@ export function HeroLive() {
     <div className="relative">
       <div
         aria-hidden
-        className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(ellipse_at_50%_35%,rgba(200,255,61,0.16),transparent_62%)] blur-2xl"
+        className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(ellipse_at_50%_35%,rgba(134,59,255,0.24),transparent_62%)] blur-2xl"
       />
 
       <div className="relative overflow-hidden rounded-2xl border border-bone/10 bg-graphite/80 shadow-[0_30px_80px_-30px_rgba(0,0,0,0.8)] backdrop-blur-xl">
@@ -76,7 +76,7 @@ export function HeroLive() {
         </div>
 
         <div className="flex items-center gap-3 border-b border-bone/10 px-4 py-4">
-          <div className="grid size-12 shrink-0 place-items-center rounded-xl bg-[linear-gradient(135deg,rgba(122,92,255,0.7),rgba(255,92,69,0.4))] font-display text-xs font-bold tracking-[-0.04em]">
+          <div className="grid size-12 shrink-0 place-items-center rounded-xl bg-[linear-gradient(135deg,rgba(134,59,255,0.72),rgba(255,92,69,0.4))] font-display text-xs font-bold tracking-[-0.04em]">
             BO
           </div>
           <div className="min-w-0">

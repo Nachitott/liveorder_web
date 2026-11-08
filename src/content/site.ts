@@ -52,9 +52,9 @@ export const palette = [
     foreground: "#07080B",
   },
   {
-    name: "Violeta voltaje",
-    role: "Acento",
-    hex: "#7A5CFF",
+    name: "Violeta marca",
+    role: "Marca",
+    hex: "#863BFF",
     foreground: "#F4F1E8",
   },
 ];

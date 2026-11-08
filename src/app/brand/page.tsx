@@ -147,7 +147,7 @@ export default function Home() {
                 <div className="relative">
                   <div
                     aria-hidden
-                    className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(ellipse_at_50%_30%,rgba(122,92,255,0.22),transparent_65%)] blur-2xl"
+                    className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(ellipse_at_50%_30%,rgba(134,59,255,0.24),transparent_65%)] blur-2xl"
                   />
                   <Ticket className="animate-float motion-reduce:animate-none">
                     <div className="p-5 sm:p-6">
@@ -159,7 +159,7 @@ export default function Home() {
                       </div>
 
                       <div className="mt-5 flex items-center gap-3">
-                        <div className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-[linear-gradient(135deg,rgba(122,92,255,0.65),rgba(255,92,69,0.35))] font-display text-sm font-bold tracking-[-0.04em]">
+                        <div className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-[linear-gradient(135deg,rgba(134,59,255,0.68),rgba(255,92,69,0.35))] font-display text-sm font-bold tracking-[-0.04em]">
                           BO
                         </div>
                         <div className="min-w-0">

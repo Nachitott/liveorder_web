@@ -31,6 +31,8 @@ npm run lint     # ESLint
 
 - Fase 01 — Brand foundation: tokens, tipografía, logo, primitives y preview del sistema (`/brand`).
 - Fase 02 — Home real: header, hero con simulación live, narrativa del problema y CTA de acceso.
+- Identidad alineada al producto: violeta de marca `#863BFF`, lima de acción `#C8FF3D` y coral live `#FF5C45`.
+- Fase 03 — Demo interactiva del **flujo real** del prototipo: Pre-Live → Live Monitor → Post-Live → Auditoría. Especificación en [`docs/fase-3-demo.md`](docs/fase-3-demo.md).
 
 ## Contacto
 
